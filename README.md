@@ -5,7 +5,7 @@
 
 https://user-images.githubusercontent.com/83646676/178528329-dde5e7a0-481f-47d2-b615-bfb3cc8c54d3.mp4
 
-
+[<h2>Live Demo</h2>](https://sorting-visualizer-neelpatel.web.app/)
 
 ---
 
