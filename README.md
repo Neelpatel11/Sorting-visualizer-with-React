@@ -7,6 +7,8 @@ https://user-images.githubusercontent.com/83646676/178528329-dde5e7a0-481f-47d2-
 
 [<h2>Live Demo</h2>](https://sorting-visualizer-neelpatel.web.app/)
 
+https://sorting-visualizer-neelpatel.web.app/
+
 ---
 
 ### This repo is an attempt to help in learning popular sorting algorithms by visualization
